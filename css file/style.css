@@ -1,12 +1,13 @@
-.wolf1{
-display: inline;
+.wolf1{ 
+display: inline-block;
 box-sizing: border-box;
-width: 200px;
-height: 250px;
-border: 2px solid black;
-padding: 10px;
-margin: 10px 10px 10px 10px;
+width: 100px;
+height: 150px;
 object-fit: cover;
+border: 0.5px solid blue;
+padding: 5px;
+margin: 5px ;
+
 }
  
 
